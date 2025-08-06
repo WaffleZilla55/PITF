@@ -10,7 +10,7 @@
 
 ## Description
 
-An application created for the moral team, dedicated to hosting BESPIN raffles and voting events.
+An application created for the BESPIN morale team, dedicated to hosting BESPIN giveaways and voting events.
 
 ## Environment
 
@@ -18,8 +18,9 @@ Create environment notes here...
 
 ## Authors
 
-- A1C Jordan Leonard
+- SrA Jordan Leonard
 - A1C Andrew Odom
+- SSgt Select Chris Hodge
 
 ## License
 
