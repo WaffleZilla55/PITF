@@ -1,2 +1,10 @@
 # PITF
-An application designed to run Pie in the Face, giveaways, and any other event that requires a leaderboard, votes, and optionally random picking.
+
+## Name Ideas
+- BesPick
+- BesBallot
+- Holocron – Ancient data storage in Star Wars; perfect metaphor for storing votes and results.
+- ForceCast – Casting votes or raffles, powered by “the Force.”
+- Wookiee Wins
+
+An application dedicated to hosting BESPIN raffles and voting events.
